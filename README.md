@@ -13,8 +13,6 @@ O valor total líquido de "Lucros / Perdas" durante todo o período
 
 A média dos "Lucros / Perdas" durante todo o período
 
-A média das mudanças em "Lucros / Perdas" durante todo o período - OPCIONAL
-
 O maior aumento nos lucros (data e valor) durante todo o período
 
 A maior redução nas perdas (data e valor) ao longo de todo o período
